@@ -1,1 +1,1 @@
-console.log("Mini projecte Git inicial");
+console.log("Canvi temporal per provar revert i reset");
